@@ -1,7 +1,6 @@
 /**
  * Kraken audit DB utility program driver
  *
- *
  * The MIT License (MIT)
  *
  * Copyright (c) 2014 Payward, Inc. (Kraken.com)
